@@ -1,4 +1,5 @@
 # Dang_Khoa
+#describe: dem so luot truy cap ung dung theo detect_protocol_name va local_ip
 import json
 import glob,os
 
